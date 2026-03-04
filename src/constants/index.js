@@ -37,5 +37,5 @@ export const SOCIAL = {
 
 export const BASE_URL =
   import.meta.env.MODE === "production" 
-  ? "http://Shin-0523.github.io/react-portfolio" 
+  ? "http://Shin-0523.github.io/react-portfolio-test" 
   : "" ;
